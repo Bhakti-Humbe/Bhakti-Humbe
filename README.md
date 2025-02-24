@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**Bhakti-Humbe/Bhakti-Humbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Bhakti!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Aspiring Software Engineer | Full Stack Developer | Tech Enthusiast**  
+
+I am a **Computer Science Engineering** student at **Savitribai Phule Pune University (Dr. D. Y. Patil Institute of Technology, Pimpri)**   
+
+
+## 🛠️ Tech Stack  
+### **Languages & Frameworks:**  
+- **Programming:** Java, C++, C, Python  
+- **Web Development:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL  
+
+### **Tools & Platforms:**  
+- **Version Control:** Git, GitHub  
+- **Development Environment:** Visual Studio Code, Linux  
+
+### **Certifications:**  
+✔️ **Foundation of Cyber Security** (Google)  
+✔️ **Rapid C++** (Infosys Springboard)  
+✔️ **Fundamentals of Python** (Great Learning)  
+
+---
+
+## 💡 Work Experience  
+🔹 **Full Stack Development Intern @ TechnoScripts Embedded, Pune** *(June 2023 - July 2023)*  
+- Developed a **high-performance full-stack web application** using React.js, Node.js, Express.js, and MongoDB.  
+- Improved frontend performance by **40%** using lazy loading and Redux.  
+- Designed **RESTful APIs for authentication**, reducing API response time by **50%**.  
+
+---
+
+## 🏆 Achievements  
+🏅 **IDEASPARK Hackathon 2025 – 2nd Runner-Up**  
+- Awarded by **Dr. D. Y. Patil Institute of Technology** for presenting the project **"Effective Campus Management"**.  
+
+---
+
+## 🎭 Extracurricular Activities  
+🎟️ **Devkraft (DYPIT) – Event Management Team** *(Nov 2024 – Present)*  
+- Organized multiple events to help students showcase their **technical skills**.  
+
+---
+
+🚀 **Let's build something amazing together!**  
+
+---
+
