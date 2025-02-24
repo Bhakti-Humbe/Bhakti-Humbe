@@ -6,6 +6,7 @@
 
 I am a **Computer Science Engineering** student at **Savitribai Phule Pune University (Dr. D. Y. Patil Institute of Technology, Pimpri)**   
 
+---
 
 ## 🛠️ Tech Stack  
 ### **Languages & Frameworks:**  
@@ -42,7 +43,11 @@ I am a **Computer Science Engineering** student at **Savitribai Phule Pune Unive
 - Organized multiple events to help students showcase their **technical skills**.  
 
 ---
+📫 Let's Connect!
+📧 Email: bhaktihumbe25@gmail.com
+💼 LinkedIn:https:linkedin.com/in/bhaktihumbe25
 
+---
 🚀 **Let's build something amazing together!**  
 
 ---
