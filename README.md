@@ -45,7 +45,7 @@ I am a **Computer Science Engineering** student at **Savitribai Phule Pune Unive
 ---
 📫 Let's Connect!
 📧 Email: bhaktihumbe25@gmail.com
-💼 LinkedIn:https:linkedin.com/in/bhaktihumbe25
+💼 LinkedIn:linkedin.com/in/bhaktihumbe25
 
 ---
 🚀 **Let's build something amazing together!**  
